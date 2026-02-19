@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+results.txt
+report.html
+nuclei_results.txt
+aquatone_report/
+*.log
+.env
